@@ -1,2 +1,2 @@
 # LeetCode
-Solving 150+ leet code questions.
+Solving 150+ leet code questions in Java.
