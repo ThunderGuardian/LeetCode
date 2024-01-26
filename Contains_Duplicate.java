@@ -1,5 +1,6 @@
 //Difficulty: Easy
-//Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+//Runtime: 9 ms
+//Memory Usage: 56.3 MB
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         int size=nums.length;
