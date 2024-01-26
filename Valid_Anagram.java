@@ -1,3 +1,7 @@
+//Difficulty: Easy
+//Runtime: 18 ms
+//Memory Usage: 43.7 MB
+
 import java.util.*; 
 class Solution {
     public boolean isAnagram(String s, String t) {
