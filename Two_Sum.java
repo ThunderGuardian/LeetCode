@@ -31,7 +31,7 @@ class Solution {
 
 
 //2nd Solution (Efficient one)
-//Runtime: 1 ms
+//Runtime: 1-2 ms
 //Memory Usage: 43.5 MB
 class Solution {
     public int[] twoSum(int[] nums, int target) {
