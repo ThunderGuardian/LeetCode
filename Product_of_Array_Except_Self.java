@@ -1,6 +1,7 @@
 //Difficulty: Medium
 //Runtime: 1 ms
 //Memory Usage: 53.4 MB
+//Without using the division operator
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int arr[]=new int[nums.length];
