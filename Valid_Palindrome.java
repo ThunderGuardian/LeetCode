@@ -35,6 +35,8 @@ class Solution {
 
 
 //2nd Solution efficient than the the 1st solution
+//Runtime: 2 ms
+//Memory Usage: 42.6 MB
 class Solution {
     public boolean isAlphaNumeric(char f){
         return (f >= 'a' && f <= 'z') ||
