@@ -1,4 +1,4 @@
-//Difficulty: Medium
+//Difficulty: Medium 
 //Runtime: 33 ms
 //Memory Usage: 51.2 MB
 
