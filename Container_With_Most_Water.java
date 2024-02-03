@@ -1,6 +1,6 @@
 //Difficulty: Medium
 //Runtime: 6 ms
-//Memory: 57.04 mb
+//Memory: 57.04 MB
 class Solution {
     public int maxArea(int[] height) {
         int max=0;
