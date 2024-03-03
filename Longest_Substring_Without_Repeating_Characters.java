@@ -10,7 +10,8 @@ class Solution {
             if(subL.contains(s.charAt(r))){
                 int index=subL.indexOf(s.charAt(r));
                 subL.remove(index);
-                if(index>0){
+                if(index>0) //This removes all the characters before the repeated char in the substring
+                {  
                     subL.subList(0,index).clear();
                 }
             }
