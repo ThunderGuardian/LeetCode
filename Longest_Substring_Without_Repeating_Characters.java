@@ -1,6 +1,6 @@
 //Difficulty: Medium
 //Runtime: 6ms
-//Memory: 43.06 mb
+//Memory: 43.06 mb 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         List<Character> subL=new ArrayList<>();
